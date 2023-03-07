@@ -1,0 +1,52 @@
+,gene,disease,disease_description,DisGeNET_ALL
+0,TNF,C0040517,Gilles de la Tourette syndrome,
+1,TNF,C0006413,Burkitt Lymphoma,yes
+2,TNF,C0079588,"Ichthyosis, X-Linked",yes
+3,SOD2,C0040517,Gilles de la Tourette syndrome,
+4,SOD2,C0006413,Burkitt Lymphoma,
+5,SOD2,C0079588,"Ichthyosis, X-Linked",
+6,TNF,C0009404,Colorectal Neoplasms,yes
+7,POMC,C0040517,Gilles de la Tourette syndrome,
+8,POMC,C0006413,Burkitt Lymphoma,
+9,SOD2,C0009404,Colorectal Neoplasms,yes
+10,IL6,C0040517,Gilles de la Tourette syndrome,
+11,IL6,C0006413,Burkitt Lymphoma,yes
+12,TP53,C0040517,Gilles de la Tourette syndrome,yes
+13,POMC,C0079588,"Ichthyosis, X-Linked",
+14,TP53,C0006413,Burkitt Lymphoma,yes
+15,IL6,C0079588,"Ichthyosis, X-Linked",
+16,TP53,C0079588,"Ichthyosis, X-Linked",yes
+17,PTGS2,C0040517,Gilles de la Tourette syndrome,
+18,PTGS2,C0006413,Burkitt Lymphoma,yes
+19,POMC,C0009404,Colorectal Neoplasms,
+20,PTGS2,C0079588,"Ichthyosis, X-Linked",
+21,IL6,C0009404,Colorectal Neoplasms,yes
+22,MTHFR,C0040517,Gilles de la Tourette syndrome,
+23,MTHFR,C0006413,Burkitt Lymphoma,yes
+24,TP53,C0009404,Colorectal Neoplasms,yes
+25,PTEN,C0040517,Gilles de la Tourette syndrome,
+26,PTEN,C0006413,Burkitt Lymphoma,
+27,MTHFR,C0079588,"Ichthyosis, X-Linked",
+28,IL1B,C0040517,Gilles de la Tourette syndrome,yes
+29,IL1B,C0006413,Burkitt Lymphoma,
+30,IFNA2,C0040517,Gilles de la Tourette syndrome,
+31,PTEN,C0079588,"Ichthyosis, X-Linked",yes
+32,IFNA2,C0006413,Burkitt Lymphoma,
+33,PTGS2,C0009404,Colorectal Neoplasms,yes
+34,TGFB1,C0040517,Gilles de la Tourette syndrome,yes
+35,TGFB1,C0006413,Burkitt Lymphoma,yes
+36,PLAT,C0040517,Gilles de la Tourette syndrome,
+37,IFNG,C0040517,Gilles de la Tourette syndrome,
+38,PLAT,C0006413,Burkitt Lymphoma,
+39,IFNG,C0006413,Burkitt Lymphoma,yes
+40,KRAS,C0040517,Gilles de la Tourette syndrome,
+41,IL1B,C0079588,"Ichthyosis, X-Linked",
+42,KRAS,C0006413,Burkitt Lymphoma,
+43,TNF,C1968949,Cakut,
+44,IFNA2,C0079588,"Ichthyosis, X-Linked",
+45,TGFB1,C0079588,"Ichthyosis, X-Linked",
+46,VEGFA,C0040517,Gilles de la Tourette syndrome,
+47,VEGFA,C0006413,Burkitt Lymphoma,yes
+48,PLAT,C0079588,"Ichthyosis, X-Linked",
+49,IFNG,C0079588,"Ichthyosis, X-Linked",
+50,TNF,C2363142,T-Cell Prolymphocytic Leukemia,
