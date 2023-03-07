@@ -1,0 +1,1 @@
+Gene-Disease Associations used for training and testing our model during the current study are available on DisGeGNET database (\textit{\url{https://www.disgenet.org}}, accessed on 2023-03-07).
